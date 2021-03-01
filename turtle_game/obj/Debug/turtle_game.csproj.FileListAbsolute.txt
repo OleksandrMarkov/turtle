@@ -1,0 +1,8 @@
+E:\projects\turtle_game\turtle_game\bin\Debug\turtle_game.exe.config
+E:\projects\turtle_game\turtle_game\bin\Debug\turtle_game.exe
+E:\projects\turtle_game\turtle_game\bin\Debug\turtle_game.pdb
+E:\projects\turtle_game\turtle_game\bin\Debug\SmallBasicLibrary.dll
+E:\projects\turtle_game\turtle_game\bin\Debug\SmallBasicLibrary.xml
+E:\projects\turtle_game\turtle_game\obj\Debug\turtle_game.csprojResolveAssemblyReference.cache
+E:\projects\turtle_game\turtle_game\obj\Debug\turtle_game.exe
+E:\projects\turtle_game\turtle_game\obj\Debug\turtle_game.pdb
