@@ -8,6 +8,22 @@ namespace turtle_game
 		public static void Main(string[] args)
 		{
 			
+			Turtle.Speed = 8;
+			
+/*			FENCE
+			for(int i = 0; i < 10; i++)
+			{
+				Turtle.Move(15);
+				Turtle.TurnRight();
+				Turtle.Move(15);
+				Turtle.TurnRight();
+				Turtle.Move(15);
+				Turtle.TurnLeft();
+				Turtle.Move(15);
+				Turtle.TurnLeft();
+			}
+*/			
+			
 /*			UPSTAIRS
 			for(int i = 0; i < 10; i++)
 			{
